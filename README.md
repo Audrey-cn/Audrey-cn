@@ -61,6 +61,6 @@ lab_rules:
 ---
 
 <div align="center">
-  <sub>🧪 Always happy to geek out on AI agents, weird Linux/Android setups, Hackintosh hardware dossiers, or tiny browser games — feel free to open an Issue or PR!</sub><br />
-  <sub>欢迎在任意仓库提 Issue / PR 交流折腾心得 ✨</sub>
+  <sub>🤝 <strong>Open Collaboration:</strong> All public repositories here actively encourage <strong>Forks, Issues, and Pull Requests</strong> — feel free to remix, build on them, report bugs, or drop a PR!</sub><br />
+  <sub>所有公开仓库均热烈欢迎 <strong>Fork 二次开发、提 Issue 交流与提交 PR</strong>，欢迎一起折腾 ✨</sub>
 </div>
