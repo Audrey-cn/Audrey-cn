@@ -41,9 +41,8 @@ lab_rules:
 
 | Experiment | What's cooking | Tech |
 | :--- | :--- | :--- |
+| [**`rpe-harness`**](https://github.com/Audrey-cn/rpe-harness) | ⚙️ State-driven capability addressing &amp; verifiable local execution kernel for coding agents (`v1.16.0`): independent artifact oracles, atomic cancel-vs-publish convergence, signed capability packages &amp; digest-bound confirmation. <br><sub>*状态驱动的能力寻址与可验证 Agent 执行内核（原 Progenitor 协议的彻底迭代版）。*</sub> | `Python` `SQLite` `AI Agents` `Verification` |
 | [**`universal-agent-embedding-kit`**](https://github.com/Audrey-cn/universal-agent-embedding-kit) | Model-agnostic, embeddable agent kit: verification, adaptive context, effort routing, cache-aware cost model & graded benchmarks — **evidence-first**, every metric red-teamed. <br><sub>*模型无关、证据优先的嵌入式 Agent 工具箱与基准测试。*</sub> | `Python` `LLM` `MCP` `Benchmarks` |
-| [**`progenitor-protocol`**](https://github.com/Audrey-cn/progenitor-protocol) | 🧬 *(Archived experiment)* Self-bootstrapping capability layer for AI coding agents in one zero-dependency Python file; lessons folded into UAEK. <br><sub>*（已归档实验）零依赖单文件 AI Agent 能力自举协议，经验已沉淀至 UAEK。*</sub> | `Python` `Archived` `AI Agents` |
-| [**`progenitor-registry`**](https://github.com/Audrey-cn/progenitor-registry) | *(Archived experiment)* Public capability gene pool and semantic index for the Progenitor Akashic network. <br><sub>*（已归档实验）Progenitor 网络的公共能力基因库与语义索引。*</sub> | `Python` `Archived` `Semantic Index` |
 
 ### 🎮 Bench 03 · Pocket Indie Games（零依赖离线游戏实验室）
 
