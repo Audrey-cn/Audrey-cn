@@ -2,15 +2,11 @@
 
 # ⚡ Audrey's Cyber Lab · 赛博折腾实验室
 
-**Stuffing Linux desktops into phones, coaxing macOS onto a Panasonic laptop, building self-bootstrapping AI agents, and shipping zero-dependency pocket games.**
+**Stuffing Linux desktops into phones, coaxing macOS onto a Panasonic laptop,<br />building self-bootstrapping AI agents, and shipping zero-dependency pocket games.**
 
 *把完整桌面塞进手机 · 给松下小本子装黑苹果 · 给 AI Agent 造工具箱 · 顺手写点单文件离线小游戏*
 
-<p>
-  <img src="https://img.shields.io/badge/Lab_Status-Tinkering_In_Progress-00d4aa?style=flat-square&logo=gnubash&logoColor=white" alt="Lab Status" />
-  <img src="https://img.shields.io/badge/Focus-AI_Agents_%7C_Systems_%7C_Indie_Games-6366f1?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Philosophy-Evidence--First_%26_Zero--Bloat-f59e0b?style=flat-square" alt="Philosophy" />
-</p>
+`🟢 Lab Status: Tinkering` · `🤖 AI Agents` · `📱 Android & Linux` · `🍎 Hackintosh` · `🎮 Pocket Games`
 
 </div>
 
@@ -18,14 +14,16 @@
 
 ```yaml
 # $ cat ~/.audrey/lab_manifest.yml
-operator:   Audrey (Audrey-cn)
-vibe:       Curious tinkerer · Systems hacker · AI agent builder · Weekend game dev
-motto:      "If a device has a CPU, it deserves an unreasonable OS — or at least a single-file game."
-            # 只要有 CPU，就值得装点不讲道理的系统，或者跑一个单文件小游戏
+operator: Audrey (Audrey-cn)
+vibe:     Curious tinkerer · Systems hacker · AI agent builder · Weekend game dev
+motto: |
+  "If a device has a CPU, it deserves an unreasonable OS —
+   or at least a single-file game."
+  # 只要有 CPU，就值得装点不讲道理的系统，或者跑一个单文件小游戏
 lab_rules:
-  - Zero-dependency when possible (能单文件搞定，绝不拉一整个宇宙的依赖)
-  - Evidence-first & honest caveats (实测说话，自己红队自己的基准数据)
-  - Make weird hardware do cool things (让小众硬件干点超出说明书的事)
+  - Zero-dependency when possible   # 能单文件搞定，绝不拉一整个宇宙的依赖
+  - Evidence-first & honest caveats # 实测说话，自己红队自己的基准数据
+  - Make weird hardware do cool things
 ```
 
 ---
@@ -57,16 +55,9 @@ lab_rules:
 
 ## 🛠️ Lab Toolkit · 常用装备
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/HTML5_%2F_WebGL2-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 & WebGL2" />
-  <img src="https://img.shields.io/badge/Shell_%2F_Zsh-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black" alt="Android" />
-  <img src="https://img.shields.io/badge/Linux_%2F_Wayland-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux & Wayland" />
-  <img src="https://img.shields.io/badge/macOS_%2F_OpenCore-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
-  <img src="https://img.shields.io/badge/AI_Coding_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-</p>
+- **Languages:** `Python` · `Kotlin` · `HTML5 / WebGL2` · `Shell / Zsh`
+- **Playgrounds:** `Android (chroot / proot)` · `Linux / Wayland` · `macOS / OpenCore`
+- **AI Stack:** `AI Coding Agents` · `MCP` · `Prompt Caching` · `Eval & Benchmarks`
 
 ---
 
