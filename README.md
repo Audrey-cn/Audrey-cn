@@ -41,7 +41,7 @@ lab_rules:
 
 | Experiment | What's cooking | Tech |
 | :--- | :--- | :--- |
-| [**`rpe-harness`**](https://github.com/Audrey-cn/rpe-harness) | ⚙️ State-driven capability addressing &amp; verifiable local execution kernel for coding agents (`v1.17.0`): C2 authorized source resolver, host-neutral task facade, atomic cancel-vs-publish convergence &amp; signed capability packages. <br><sub>*状态驱动的能力寻址与可验证 Agent 执行内核（原 Progenitor 协议的彻底迭代版）。*</sub> | `Python` `SQLite` `AI Agents` `Verification` |
+| [**`rpe-harness`**](https://github.com/Audrey-cn/rpe-harness) | ⚙️ State-driven capability addressing &amp; verifiable local execution kernel for coding agents (`v1.18.0`): C2 source resolver, C4 host-neutral facade, atomic cancellation &amp; A2 DSH second-host adapter. <br><sub>*状态驱动的能力寻址与可验证 Agent 执行内核（原 Progenitor 协议的彻底迭代版）。*</sub> | `Python` `Node.js` `SQLite` `AI Agents` |
 | [**`universal-agent-embedding-kit`**](https://github.com/Audrey-cn/universal-agent-embedding-kit) | Model-agnostic, embeddable agent kit: verification, adaptive context, effort routing, cache-aware cost model & graded benchmarks — **evidence-first**, every metric red-teamed. <br><sub>*模型无关、证据优先的嵌入式 Agent 工具箱与基准测试。*</sub> | `Python` `LLM` `MCP` `Benchmarks` |
 
 ### 🎮 Bench 03 · Pocket Indie Games（零依赖离线游戏实验室）
