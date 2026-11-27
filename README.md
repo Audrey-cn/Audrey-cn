@@ -42,7 +42,7 @@ lab_rules:
 
 | Experiment | What's cooking | Tech |
 | :--- | :--- | :--- |
-| [**`rpe-harness`**](https://github.com/Audrey-cn/rpe-harness) | ⚙️ Local-first, zero-daemon verifiable execution kernel for coding agents (`v2.3.2` · 3-OS native containment): stdio MCP + local Web/CLI Approval Inbox, 7 verified contracts + SDK, **−98% tokens &amp; 11.5× faster** in 10-step long-horizon pipeline benchmark. <br><sub>*面向编程 Agent 的本地优先可验证执行内核（MCP + 本地审批台、7 大内置合约、10 步大文件长线实测省 98% Token）。*</sub> | `Python` `MCP` `Node.js` `SQLite` |
+| [**`rpe-harness`**](https://github.com/Audrey-cn/rpe-harness) | ⚙️ Local-first, zero-daemon verifiable execution kernel for coding agents (`v2.3.2` · 3-OS native containment): stdio MCP + local Web/CLI Approval Inbox, 7 verified contracts + SDK, **5-family 10-step long-horizon: 50/50 pass vs 24/35 native, up to −98% tokens &amp; 13× faster**. <br><sub>*面向编程 Agent 的本地优先可验证执行内核（MCP + 本地审批台、7 大内置合约、五大家族 10 步大文件长线实测 50/50 全绿、最高省 98% Token）。*</sub> | `Python` `MCP` `Node.js` `SQLite` |
 | [**`universal-agent-embedding-kit`**](https://github.com/Audrey-cn/universal-agent-embedding-kit) | Model-agnostic, embeddable agent kit: verification, adaptive context, effort routing, cache-aware cost model & graded benchmarks — **evidence-first**, every metric red-teamed. <br><sub>*模型无关、证据优先的嵌入式 Agent 工具箱与基准测试。*</sub> | `Python` `LLM` `MCP` `Benchmarks` |
 
 ### 🎮 Bench 03 · Pocket Indie Games（零依赖离线游戏实验室）
